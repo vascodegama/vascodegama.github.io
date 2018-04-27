@@ -1,0 +1,21 @@
+CACHE MANIFEST
+# Change date every time change is made to pictures
+# Changer la date a chaque fois qu'un changement est fait a une image
+# 2017-01-20 v2.0.0
+# YYYY-MM-DD (AAAA-MM-JJ)
+/carte.gif
+/cartegrece.jpg
+/discobole.jpg
+/parthenon.jpg
+/prehist.jpg
+/drapeau.png
+/fondecran.png
+/lycurgue.png
+/montagnesgrecs.png
+/soldatacheen.png
+/solon.png
+/solon2.png
+/spartiate.png
+
+NETWORK:
+*

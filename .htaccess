@@ -1,0 +1,13 @@
+<IfModule mod_expires.c>
+# Enable expirations
+ExpiresActive On 
+# Default directive
+ExpiresDefault "access plus 30 seconds"
+# My favicon
+ExpiresByType image/x-icon "access plus 1 year"
+# Images
+ExpiresByType image/gif "access plus 10 minutes"
+ExpiresByType image/png "access plus 10 minutes"
+ExpiresByType image/jpg "access plus 10 minutes"
+ExpiresByType image/jpeg "access plus 10 minutes"
+</IfModule>

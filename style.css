@@ -1,0 +1,574 @@
+.header h1 {
+    color:red;
+    font-size:50px;
+    text-align: center;
+}
+
+ul {
+    font-size:30px;
+}
+
+body {
+    	background: url("fondecran.png") center right;
+    	background-size: cover;
+		background-attachment: fixed;
+}
+
+
+.header {
+    background-color: #333;
+    max-width: 500px;
+    margin: 0 auto;
+    position: relative;
+    top: 0;
+    bottom: 100px;
+    padding: 0 300px;
+    height: 219px;
+}
+
+.nav {
+    padding: 10px 0;
+    display: inline-block;
+    text-align: center;
+}
+
+.nav li {
+    display: inline-block;
+    text-align: center;
+}
+
+.nav a {
+    color: red;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: uppercase;
+    border: 1px solid #466995;
+    padding:20px 20px;
+    background-color: white;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    background-color: red;
+    color: white;
+}
+
+#disc1 {
+    height:215px;
+    margin-top: -91px;
+    margin-left: -299px;
+    text-align: left;
+    position: absolute;
+}
+
+#disc2 {
+    height:215px;
+    margin-top: -91px;
+    margin-left: 656px;
+    text-align: right;
+    position: absolute;
+
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+	/* ^ ^ C'est rouge car c'est du CSS3*/
+}
+
+#disc1geo {
+    height:215px;
+    margin-top: -91px;
+    margin-left: -675px;
+    text-align: left;
+    position: absolute;
+}
+
+#disc2geo {
+    height:215px;
+    margin-top: -91px;
+    margin-left: 280px;
+    text-align: right;
+    position: absolute;
+
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+	/* ^ ^ C'est rouge car c'est du CSS3*/
+}
+
+#intro{
+    border: 1px solid red;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding: 20px 30px;
+    background-color: #D13434;
+    text-decoration: none;
+    max-width: 1037px;
+}
+
+#drapeau{
+    float:right;
+    padding-left: 10px;
+    margin-top: -20px;
+    margin-right: -30px;
+
+}
+
+#menuhistoire{
+    border: 1px solid red;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding: 20px 20px;
+    background-color: #D13434;
+    text-decoration: none;
+    max-width: 1055px;
+}
+
+#menuhistoire a{
+    text-decoration: none;
+	color: #0000FF;
+}
+
+#menuhistoire h1{
+    text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+}
+
+#introduction{
+    border: 1px solid red;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding:20px 20px;
+    background-color: #D13434;
+    text-decoration: none;
+    max-width: 1055px;
+    
+}
+
+#introduction h1{
+    text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+}
+
+#introduction a{
+	float: right;
+	display: inline-block;
+	margin-top: -15px;.
+}
+
+#introgeo a{
+	float: right;
+	display: inline-block;
+	margin-top: -15px;.
+}
+
+#stats a{
+	float: right;
+	display: inline-block;
+	margin-top: -15px;.
+}
+
+#montagnes a{
+	float: right;
+	display: inline-block;
+	margin-top: -15px;.
+}
+
+#lacfleuve a{
+	float: right;
+	display: inline-block;
+	margin-top: -15px;.
+}
+
+#prehistoire {
+    border: 1px solid red;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding: 20px 20px;
+    background-color: #D13434;
+    text-decoration: none;
+    max-width: 1055px;
+    
+}
+
+#prehistoire h1{
+    text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+}
+
+#prehistoire a{
+	float: right;
+	display: inline-block;
+	margin-top: -30px;.
+}
+
+#source{
+    border: 1px solid red;
+    font-weight: 600;
+    font-size: 15px;
+    margin: 50px auto;
+    padding:20px 20px;
+    background-color: #D13434;
+    text-decoration: none;
+    text-align: center;
+    max-width: 1055px
+}
+
+#protohistoire {
+    border: 1px solid red;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding: 20px 20px;
+    background-color: #D13434;
+    text-decoration: none;
+    max-width: 1055px;
+    
+}
+
+#protohistoire h1{
+    text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+}
+
+#protohistoire h2{
+	color: #990000;
+	font-size: 40px;
+	text-align: center;
+}
+
+#prehist{
+    float:right;
+    margin-top: -94px;
+    margin-right: -20px;
+    height: 170px;
+}
+
+#protohistoire a{
+	float: right;
+	display: inline-block;
+	margin-top: -30px;.
+}
+
+#parthenon{
+    height: 250px;
+    float: right;
+    margin-top: -94px;
+    margin-right: -20px;
+}
+
+#soldatacheen {
+    height: 700px;
+    float: right;
+    margin-top: -94px;
+    margin-right: -20px;
+}
+
+#introgeo{
+    border: 1px solid red;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding:20px 20px;
+    background-color: #D13434;
+    text-decoration: none;
+    max-width: 1055px;
+}
+
+#menugeo{
+    border: 1px solid red;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding: 20px 20px;
+    background-color: #D13434;
+    text-decoration: none;
+    max-width: 1055px;
+}
+
+#menugeo h1{
+    text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+}
+
+#menugeo a{
+    text-decoration: none;
+    color: #0000FF;
+}
+
+#cartegrece{
+    height: 250px;
+    float: right;
+    margin-top: -145px;
+    margin-right: -20px;
+}
+#etatsgrecs{
+	border: 1px solid red;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding: 20px 20px;
+    background-color: #D13434;
+    text-decoration: none;
+    max-width: 1055px;
+}
+
+#etatsgrecs h1{
+	text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+}
+
+#etatsgrecs h2{
+	color: #990000;
+	font-size: 40px;
+	text-align: center;
+}
+
+#etatsgrecs a{
+	float: right;
+	display: inline-block;
+	margin-top: -30px;.
+}
+
+#perse{
+	border: 1px solid red;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding: 20px 20px;
+    background-color: #D13434;
+    text-decoration: none;
+    max-width: 1055px;
+}
+
+#perse h1{
+	text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+}
+
+#perse h2{
+	color: #990000;
+	font-size: 40px;
+	text-align: center;
+}
+
+#perse a{
+	float: right;
+	display: inline-block;
+	margin-top: -30px;.
+}
+
+#perse h3{
+	color: #660066;
+	font-size: 45px;
+	text-align: center;
+}
+
+#declin{
+	border: 1px solid red;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding: 20px 20px;
+    background-color: #D13434;
+    text-decoration: none;
+    max-width: 1055px;
+}
+
+#declin h1{
+	text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+}
+
+#declin h2{
+	color: #990000;
+	font-size: 40px;
+	text-align: center;
+}
+
+#declin a{
+	float: right;
+	display: inline-block;
+	margin-top: -30px;.
+}
+
+#declin h3{
+	color: #660066;
+	font-size: 45px;
+	text-align: center;
+}
+
+#auteur{
+	border: 1px solid red;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding: 20px 20px;
+    background-color: #D13434;
+    text-decoration: none;
+    max-width: 1055px;
+}
+
+#auteur h2{
+	color: #990000;
+	font-size: 30px;
+	text-align: center;
+}
+
+#carte{
+	height: 450px;
+    
+}
+
+#solon{
+	float: right;
+    margin-right: 1px;
+    text-align: right;
+	margin-top: 0px;
+    height: 270px;
+}
+
+#solon2{
+	height: 450px;
+	
+}
+
+#solon2div{
+	text-align: center;
+}
+
+#carte1{
+	text-align: center;
+}
+
+#spartiate{
+	height: 250px;
+	float: right;
+	padding-top: 90px;
+}
+
+#lycurgue{
+	height: 250px;
+	float: left;
+	padding-top: -500px;
+}
+
+#empireperse2{
+	text-align: center;
+}
+
+#salamine2{
+	text-align: center;
+}
+
+#leonidas{
+	height: 250px;
+	float: left;
+	padding-top: 50px;
+}
+
+#xerxes{
+	height: 175px;
+	float: right;
+	
+}
+
+#montagnesgrecs{
+	height: 350px;
+	float: right;
+	margin-top: -145px;
+	margin-right: -20px;
+}
+div#stats{
+    border: 1px solid red;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding: 20px 20px;
+    background-color: #D13434;
+    text-decoration: none;
+    max-width: 1055px;
+}
+
+#stats h1{
+    text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+}
+
+#montagnes{
+    border: 1px solid red;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding: 20px 20px;
+    background-color: #D13434;
+    text-decoration: none;
+    max-width: 1055px;
+}
+
+#montagnes h1{
+    text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+}
+
+#montagnesgrecs{
+    height: 350px;
+    float: right;
+    margin-top: -145px;
+    margin-right: -20px;
+}
+
+#lacfleuve{
+    border: 1px solid red;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding: 20px 20px;
+    background-color: #D13434;
+    text-decoration: none;
+    max-width: 1055px;
+}
+
+#lacfleuve h1{
+    text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+	
+}
+
+#athenes{
+	height: 200px;
+	float: right;
+}
+
+#carteguerrepelo{
+	height: 300px;
+	margin-top: 13px;
+	float: right;
+}
+
+#royaumedemacedoine{
+	height: 500px;
+	margin-top: 30px;
+}
+
+#royaumedemacedoine2{
+	text-align: center;
+	font-size: 20px;
+}
