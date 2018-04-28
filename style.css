@@ -1,5 +1,5 @@
 .header h1 {
-    color:red;
+    color:#000066;
     font-size:50px;
     text-align: center;
 }
@@ -9,7 +9,7 @@ ul {
 }
 
 body {
-    	background: url("fondecran.png") center right;
+    	background: url("fondecran.jpg") center right;
     	background-size: cover;
 		background-attachment: fixed;
 }
@@ -38,7 +38,7 @@ body {
 }
 
 .nav a {
-    color: red;
+    color: #000066;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
     font-size: 20px;
@@ -50,7 +50,7 @@ body {
 }
 
 .nav a:hover {
-    background-color: red;
+    background-color: #000066;
     color: white;
 }
 
@@ -99,12 +99,12 @@ body {
 }
 
 #intro{
-    border: 1px solid red;
+    border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
     margin: 50px auto;
     padding: 20px 30px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     max-width: 1037px;
 }
@@ -118,12 +118,12 @@ body {
 }
 
 #menuhistoire{
-    border: 1px solid red;
+    border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
     margin: 50px auto;
     padding: 20px 20px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     max-width: 1055px;
 }
@@ -140,12 +140,12 @@ body {
 }
 
 #introduction{
-    border: 1px solid red;
+    border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
     margin: 50px auto;
     padding:20px 20px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     max-width: 1055px;
     
@@ -188,12 +188,12 @@ body {
 }
 
 #prehistoire {
-    border: 1px solid red;
+    border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
     margin: 50px auto;
     padding: 20px 20px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     max-width: 1055px;
     
@@ -212,24 +212,24 @@ body {
 }
 
 #source{
-    border: 1px solid red;
+    border: 1px solid #000066;
     font-weight: 600;
     font-size: 15px;
     margin: 50px auto;
     padding:20px 20px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     text-align: center;
     max-width: 1055px
 }
 
 #protohistoire {
-    border: 1px solid red;
+    border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
     margin: 50px auto;
     padding: 20px 20px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     max-width: 1055px;
     
@@ -275,23 +275,23 @@ body {
 }
 
 #introgeo{
-    border: 1px solid red;
+    border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
     margin: 50px auto;
     padding:20px 20px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     max-width: 1055px;
 }
 
 #menugeo{
-    border: 1px solid red;
+    border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
     margin: 50px auto;
     padding: 20px 20px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     max-width: 1055px;
 }
@@ -314,12 +314,12 @@ body {
     margin-right: -20px;
 }
 #etatsgrecs{
-	border: 1px solid red;
+	border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
     margin: 50px auto;
     padding: 20px 20px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     max-width: 1055px;
 }
@@ -343,12 +343,12 @@ body {
 }
 
 #perse{
-	border: 1px solid red;
+	border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
     margin: 50px auto;
     padding: 20px 20px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     max-width: 1055px;
 }
@@ -378,12 +378,12 @@ body {
 }
 
 #declin{
-	border: 1px solid red;
+	border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
     margin: 50px auto;
     padding: 20px 20px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     max-width: 1055px;
 }
@@ -413,12 +413,12 @@ body {
 }
 
 #auteur{
-	border: 1px solid red;
+	border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
     margin: 50px auto;
     padding: 20px 20px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     max-width: 1055px;
 }
@@ -494,12 +494,12 @@ body {
 	margin-right: -20px;
 }
 div#stats{
-    border: 1px solid red;
+    border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
     margin: 50px auto;
     padding: 20px 20px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     max-width: 1055px;
 }
@@ -511,12 +511,12 @@ div#stats{
 }
 
 #montagnes{
-    border: 1px solid red;
+    border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
     margin: 50px auto;
     padding: 20px 20px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     max-width: 1055px;
 }
@@ -535,12 +535,12 @@ div#stats{
 }
 
 #lacfleuve{
-    border: 1px solid red;
+    border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
     margin: 50px auto;
     padding: 20px 20px;
-    background-color: #D13434;
+    background-color: #3399ff;
     text-decoration: none;
     max-width: 1055px;
 }
