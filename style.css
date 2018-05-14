@@ -79,7 +79,7 @@ body {
 #disc1geo {
     height:215px;
     margin-top: -91px;
-    margin-left: -656px;
+    margin-left: -676px;
     text-align: left;
     position: absolute;
 }
@@ -87,7 +87,7 @@ body {
 #disc2geo {
     height:215px;
     margin-top: -91px;
-    margin-left: 280px;
+    margin-left: 263px;
     text-align: right;
     position: absolute;
 
@@ -163,25 +163,13 @@ body {
 	margin-top: -15px;.
 }
 
+#introgeo h1{
+    text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+}
+
 #introgeo a{
-	float: right;
-	display: inline-block;
-	margin-top: -15px;.
-}
-
-#stats a{
-	float: right;
-	display: inline-block;
-	margin-top: -15px;.
-}
-
-#montagnes a{
-	float: right;
-	display: inline-block;
-	margin-top: -15px;.
-}
-
-#lacfleuve a{
 	float: right;
 	display: inline-block;
 	margin-top: -15px;.
