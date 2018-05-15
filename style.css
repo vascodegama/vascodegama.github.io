@@ -253,6 +253,7 @@ body {
 
 #vascovoyage{
     height: 350px;
+    float: inherit;
     margin-right: 600px;
     margin-left: 200px;
 }
