@@ -139,7 +139,7 @@ body {
     color: #0000FF;
 }
 
-#introduction{
+#jeunesse{
     border: 1px solid #000066;
     font-weight: 600;
     font-size: 30px;
@@ -151,17 +151,90 @@ body {
     
 }
 
-#introduction h1{
+#jeunesse h1{
     text-align: center;
     font-size: 50px;
     color: #0000FF;
 }
 
-#introduction a{
+#jeunesse a{
 	float: right;
 	display: inline-block;
 	margin-top: -15px;.
 }
+
+#premiere{
+    border: 1px solid #000066;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding:20px 20px;
+    background-color: #3399ff;
+    text-decoration: none;
+    max-width: 1055px;
+    
+}
+
+#premiere h1{
+    text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+}
+
+#premiere a{
+	float: right;
+	display: inline-block;
+	margin-top: 335px;.
+}
+
+#deuxieme{
+    border: 1px solid #000066;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding:20px 20px;
+    background-color: #3399ff;
+    text-decoration: none;
+    max-width: 1055px;
+    
+}
+
+#deuxieme h1{
+    text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+}
+
+#deuxieme a{
+	float: right;
+	display: inline-block;
+	margin-top: 335px;.
+}
+
+#mort{
+    border: 1px solid #000066;
+    font-weight: 600;
+    font-size: 30px;
+    margin: 50px auto;
+    padding:20px 20px;
+    background-color: #3399ff;
+    text-decoration: none;
+    max-width: 1055px;
+    
+}
+
+#mort h1{
+    text-align: center;
+    font-size: 50px;
+    color: #0000FF;
+}
+
+#mort a{
+	float: right;
+	display: inline-block;
+	margin-top: 335px;.
+}
+
 
 #perso{
     border: 1px solid #000066;
@@ -249,6 +322,31 @@ body {
     float: right;
     margin-top: -94px;
     margin-right: -20px;
+    
+}
+
+#bartolomeo{
+    height: 250px;
+    float: right;
+    margin-top: -94px;
+    margin-right: -20px;
+    margin-top: -10px;
+    padding: 20px 20px;
+}
+
+#manuel{
+    height: 250px;
+    float: right;
+    margin-right: -20px;
+    margin-top: -50px;
+}
+
+#jean{
+    height: 250px;
+    float: left;
+    margin-top: -40px;
+    margin-right: 10px;
+    padding: 20px 20px;
 }
 
 #vascovoyage{
@@ -256,4 +354,22 @@ body {
     float: inherit;
     margin-right: 600px;
     margin-left: 200px;
+}
+
+#plage{
+    height: 350px;
+    float: inherit;
+    margin-left: 250px;
+}
+
+#tombeau{
+    height: 350px;
+    float: inherit;
+    margin-left: 300px;
+}
+
+#carte{
+    height: 350px;
+    float: inherit;
+    margin-left: 250px;
 }
